@@ -1,4 +1,4 @@
-# Tic-Tac-Toe  
+# Tic-Tac-Toe(Single-Player)
 Tic-tac-toe is a game in which players take turns by marking the spaces in a 3×3 grid.
 The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. The game's AI is developed using the min-max algorithm.
 ## How to run the game
